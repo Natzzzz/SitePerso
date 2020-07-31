@@ -1,6 +1,6 @@
 body {
     background-color: #383838;
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: proxima-nova, sans-serif;
 }
 
 #logoTop {
@@ -10,8 +10,10 @@ body {
 }
 
 #social {
+    position: absolute;
+    bottom: 30px;
     width: 100%;
-    text-align: right;
+    text-align: center;
 }
 
 .icon {
