@@ -18,7 +18,6 @@ body {
 
 .icon {
     height: 50px;
-    margin-right: 2%;
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
