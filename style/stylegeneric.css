@@ -1,9 +1,38 @@
 body {
-    background-color:;
+    background-color: #383838;
 }
 
 #logoTop {
     height: 120px;
     margin-left: 10%;
     margin-top: 5%;
+}
+
+#social {
+    width: 100%;
+    text-align: right;
+}
+
+.icon {
+    height: 50px;
+    margin-right: 2%;
+}
+
+.icon:hover {
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    font-family: 'Termina Black', sans-serif;
+    font-size: 80px;    
+    line-height: 20px;
+}
+
+h1:hover {
+    color: #5cffd1;
 }
