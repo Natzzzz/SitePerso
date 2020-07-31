@@ -1,5 +1,6 @@
 body {
     background-color: #383838;
+    font-family: 'Proxima Nova', sans-serif;
 }
 
 #logoTop {
@@ -24,15 +25,16 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #e0e0e0;
 }
 
 h1 {
     font-family: 'Termina Black', sans-serif;
-    font-size: 80px;    
+    font-size: 100px;    
     line-height: 20px;
+    transition: 0.5s;
 }
 
 h1:hover {
-    color: #5cffd1;
+    color: #1fffbf;
 }
