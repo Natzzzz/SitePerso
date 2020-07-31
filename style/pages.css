@@ -19,3 +19,19 @@ li {
     font-family: 'Termina Demi';
 }
 
+#content {
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.imageCouv {
+    height: 250px;
+    width: auto;
+    opacity: 80%;
+    transition: 0.5s;
+}
+
+.imageCouv:hover {
+    opacity: 100%;
+}
