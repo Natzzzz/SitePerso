@@ -1,6 +1,11 @@
 body {
     background-color: #383838;
-    font-family: proxima-nova, sans-serif;
+}
+
+p {
+    font-family: proxima-nova;
+    font-weight: bold;
+    font-size: 60px;
 }
 
 #logoTop {
