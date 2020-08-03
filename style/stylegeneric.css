@@ -6,6 +6,11 @@ p {
     font-family: proxima-nova;
     font-weight: bold;
     font-size: 60px;
+    color: #e0e0e0
+}
+
+#age {
+    color: #e0e0e0;
 }
 
 #logoTop {
@@ -63,6 +68,11 @@ span {
 a {
     text-decoration: none;
     color: #e0e0e0;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #1fffbf;
 }
 
 h1 {
