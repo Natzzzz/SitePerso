@@ -1,0 +1,3 @@
+skyblue: #1fffbf
+background dark: #383838
+grey: #e0e0e0
