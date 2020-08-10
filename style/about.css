@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
 body {
     font-family: 'futura-pt';
+    font-weight: 300;
 }
 
 p {
     margin-top: 50px;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+#whoami {
+    font-family: monospace, sans-serif;
+    text-align: center;
+    color: #1fffbf;
 }
