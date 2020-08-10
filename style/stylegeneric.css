@@ -4,7 +4,7 @@ body {
 
 p {
     font-family: proxima-nova;
-    font-size: 60px;
+    font-size: 50px;
     color: #e0e0e0
 }
 
@@ -74,11 +74,16 @@ a:hover {
     color: #1fffbf;
 }
 
+#fvsgroup_link {
+    text-decoration: underline;
+}
+
 h1 {
     font-family: 'Termina Black', sans-serif;
     font-size: 8vw;    
     line-height: 20px;
     transition: 0.5s;
+    margin-bottom:
 }
 
 h2 {
@@ -90,3 +95,13 @@ h2 {
 h1:hover {
     color: #1fffbf;
 }
+
+::-moz-selection {
+    color: black;
+    background: #1fffbf;
+}
+
+::selection {
+    color: black;
+    background: #1fffbf;
+  }
