@@ -20,13 +20,13 @@ p {
 
 footer {
     position: fixed;
-    bottom: 30px;
+    bottom: 0px;
     width: 100%;
     text-align: center;
 }
 
 .icon {
-    height: 50px;
+    height: 80px;
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
